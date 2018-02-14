@@ -4,4 +4,7 @@ Introduction to Git, mplsjrdevs, Feb 13, 2018 ❤️
 
 Joshua Wehner, @jaw6
 
-This is better now.
+### Useful links
+
+* [Visual git branch](https://learngitbranching.js.org/?NODEMO)
+* [Slides PDF](intro-to-git.pdf)
